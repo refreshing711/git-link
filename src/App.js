@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-			我要开始项目了0.0
+			我要开始项目了0.0,加油!!!
         <Switch>
           {
             appRoutes.map((item,index) => {
